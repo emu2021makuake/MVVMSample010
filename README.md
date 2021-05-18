@@ -5,4 +5,4 @@ Microsoft.Toolkit.Mvvm WPF Sample 10 - Event
 
 # Keywords
 
-* RelayCommand<T>
+* RelayCommand&lt;T&gt;
