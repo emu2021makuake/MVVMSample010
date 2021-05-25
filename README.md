@@ -1,5 +1,5 @@
 # MVVMSample010
-MVVM Toolkit (`Microsoft.Toolkit.Mvvm`) WPF Sample 10 - Event
+`MVVM Toolkit` (`Microsoft.Toolkit.Mvvm`) WPF Sample 10 - Event
 
 A screen that cannot be closed while the checkbox is checked.
 
