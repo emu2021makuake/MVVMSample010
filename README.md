@@ -8,3 +8,5 @@ A screen that cannot be closed while the checkbox is checked.
 # Keywords
 
 * RelayCommand&lt;T&gt;
+* Window.Loaded Event
+* Window.Closing Event
