@@ -8,3 +8,5 @@
 # キーワード
 
 * RelayCommand&lt;T&gt;
+* Window.Loaded イベント
+* Window.Closing イベント
